@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali&label=Profile%20views&color=b719f0&style=flat" alt="ali" /> </p>
 
 - 🔭 I’m studying at **Halic University**
-- 👨‍💻 I’m currently learning **Kotlin**
+- 👨‍💻 I’m currently learning **Swift**
 - 📫 How to reach me **alibatuhanak@gmail.com**
 
 
